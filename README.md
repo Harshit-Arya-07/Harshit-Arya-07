@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit-Arya-07
 - 👀 I’m interested in software developing 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA f
 
 
 <!---
