@@ -1,15 +1,14 @@
 # 💫 Hi 👋, I'm Harshit Arya
-**A passionate Software Developer || Full Stack MERN Developer || Chandigarh University**
+**A passionate Software Developer || Full Stack MERN Developer || ML Enthusiast**
 
 Email Me 👉 ✉️ **Harshitsingh0257@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on:** Real-Time Code Editor
 - 🌱 **I’m currently learning:** DSA
-- 👯 **I’m looking to collaborate on:** Hachethons
+- 👯 **I’m looking to collaborate on:** Hackethons
 - 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** Tech and 
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 💬 **Ask me about:** Tech 
+- 📫 **How to reach me:** Harshitsingh0257@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
