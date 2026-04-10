@@ -49,7 +49,7 @@ I’m a Computer Science student at **Chandigarh University** passionate about b
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase)
+
 
 ### Current Focus
 Data Structures & Algorithms • Backend Development • Machine Learning • Agentic AI
